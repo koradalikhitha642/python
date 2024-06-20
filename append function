@@ -1,0 +1,3 @@
+l=[10,3.5,"likhitha"]
+l.append("black")
+print(l)

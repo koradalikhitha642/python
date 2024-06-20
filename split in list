@@ -1,0 +1,2 @@
+l=input("enter the number:").split('_')
+print(l)

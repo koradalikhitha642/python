@@ -1,0 +1,5 @@
+a={'l','s','j'}
+print(a)
+b={1,4,3}
+a.update(b)
+print(a)
